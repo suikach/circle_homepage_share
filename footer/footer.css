@@ -1,0 +1,14 @@
+footer{
+    border-width: 1px;
+    background-color:#fff;
+}
+footer img.example1 {
+    width: 500px;
+    height: 90px;
+    padding-top: 10px;
+    }
+footer a{
+    display:flex;
+    font-size:25px;
+    padding-top:10px;
+  }
